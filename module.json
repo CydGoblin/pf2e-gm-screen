@@ -3,40 +3,36 @@
   "title": "PF2e GM Screen",
   "description": "A community made GM Screen to help run PF2E games in Foundry VTT.",
   "author": ">.tre_",
-  "url": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/",
   "version": "1.1.0",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.6",
-  "scripts": [
-    "scripts/resize.js"
-  ],
+  "systems": ["pf2e"],
+  "scripts": ["scripts/resize.js"],
   "packs": [
     {
       "label": "PF2e GM Screen",
       "entity": "JournalEntry",
       "name": "tres-gm-screen",
       "path": "packs/tres-gm-screen.db",
-      "module": "PF2eGMScreen",
-      "private": false
+      "module": "PF2eGMScreen"
     },
     {
       "label": "PF2e GM Screen - Rollable Tables",
       "entity": "RollTable",
       "name": "pf2e-gm-screen-rollable-tables",
       "path": "packs/pf2e-gm-screen-rollable-tables.db",
-      "module": "PF2eGMScreen",
-      "private": false
+      "module": "PF2eGMScreen"
     },
 	{
       "label": "PF2e GM Screen - Macro",
       "entity": "Macro",
       "name": "pf2e-gm-screen-macro",
       "path": "packs/pf2e-gm-screen-macro",
-      "module": "PF2eGMScreen",
-      "private": false
+      "module": "PF2eGMScreen"
     }
   ],
-  "systems": ["pf2e"],
   "manifest": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/-/raw/main/module.json",
-  "download": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/-/raw/main/versions/pf2egmscreen110.zip"
+  "download": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/-/raw/main/versions/pf2egmscreen110.zip",
+  "url": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/",
+  "readme": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/-/raw/main/README.md"
 }
