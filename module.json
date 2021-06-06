@@ -36,7 +36,7 @@
       "private": false
     }
   ],
-  "system": ["pf2e"],
+  "systems": ["pf2e"],
   "manifest": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/-/raw/main/module.json",
   "download": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/-/raw/main/versions/pf2egmscreen110.zip"
 }
