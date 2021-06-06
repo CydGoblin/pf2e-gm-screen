@@ -3,18 +3,13 @@
   "title": "PF2e GM Screen",
   "description": "A community made GM Screen to help run PF2E games in Foundry VTT.",
   "author": ">.tre_",
-  "authors": [],
   "url": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/",
-  "flags": {},
   "version": "1.1.0",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.6",
   "scripts": [
     "scripts/resize.js"
   ],
-  "esmodules": [],
-  "styles": [],
-  "languages": [],
   "packs": [
     {
       "label": "PF2e GM Screen",
@@ -32,7 +27,7 @@
       "module": "PF2eGMScreen",
       "private": false
     },
-	    {
+	{
       "label": "PF2e GM Screen - Macro",
       "entity": "Macro",
       "name": "pf2e-gm-screen-macro",
@@ -41,11 +36,7 @@
       "private": false
     }
   ],
-  "system": [],
-  "dependencies": [],
-  "socket": false,
+  "system": ["pf2e"],
   "manifest": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/-/raw/main/module.json",
-  "download": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/-/raw/main/versions/pf2egmscreen110.zip",
-  "protected": false,
-  "coreTranslation": false
+  "download": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/-/raw/main/versions/pf2egmscreen110.zip"
 }
