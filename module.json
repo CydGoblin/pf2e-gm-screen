@@ -3,7 +3,7 @@
   "title": "PF2e GM Screen",
   "description": "A community made GM Screen to help run PF2E games in Foundry VTT.",
   "author": ">.tre_",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.6",
   "systems": ["pf2e"],
@@ -27,7 +27,7 @@
       "label": "PF2e GM Screen - Macro",
       "entity": "Macro",
       "name": "pf2e-gm-screen-macro",
-      "path": "packs/pf2e-gm-screen-macro",
+      "path": "packs/pf2e-gm-screen-macro.db",
       "module": "PF2eGMScreen"
     }
   ],
