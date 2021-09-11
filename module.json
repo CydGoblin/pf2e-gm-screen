@@ -48,6 +48,6 @@
   "dependencies": [],
   "socket": false,
   "manifest": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/-/raw/1.1.2/module.json",
-  "download": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/-/raw/1.1.2/pf2e-gm-screen-1.1.2.zip",
+  "download": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/-/archive/1.1.2/pf2e-gm-screen-1.1.2.zip",
   "coreTranslation": false
 }
