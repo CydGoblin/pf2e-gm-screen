@@ -2,10 +2,10 @@
   "name": "PF2eGMScreen",
   "title": "PF2e GM Screen",
   "description": "A community made GM Screen to help run PF2E games in Foundry VTT.",
-  "author": ">.tre_",
+  "author": "Turqueso",
   "authors": [],
-  "url": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/",
-  "readme": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/-/raw/main/README.md",
+  "url": "https://gitlab.com/Turqueso/pf2e-gm-screen/",
+  "readme": "https://gitlab.com/Turqueso/pf2e-gm-screen/-/raw/main/README.md",
   "flags": {},
   "version": "1.1.3",
   "minimumCoreVersion": "0.8.6",
@@ -47,7 +47,7 @@
   ],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/-/raw/main/module.json",
-  "download": "https://gitlab.com/atakanaltiner6/pf2e-gm-screen/-/archive/1.1.3/pf2e-gm-screen-1.1.3.zip",
+  "manifest": "https://gitlab.com/Turqueso/pf2e-gm-screen/-/raw/main/module.json",
+  "download": "https://gitlab.com/Turqueso/pf2e-gm-screen/-/archive/1.1.3/pf2e-gm-screen-1.1.3.zip",
   "coreTranslation": false
 }
